@@ -1,2 +1,2 @@
 # do-srv
-CHR on DigitalOcean for example
+Пример того как создать свой сервер CHR на Digital Ocean.
